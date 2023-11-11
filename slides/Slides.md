@@ -11,7 +11,7 @@ footer: 'James Gress - https://jamesgress.com'
 
 ![bg left:40%](./img/jamesgress.png)
 
-## James Gress
+# James Gress
 ### Director Emerging Technologies<br>Generative AI<br>Accenture
 
 <i class="fa-brands fa-x-twitter"></i> 𝕏: [@jmgress](https://twitter.com/jmgress)
@@ -94,9 +94,15 @@ comment that will show in notes -->
 # Mermaid
 
 <div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+gitGraph
+    commit
+    commit
+    branch develop
+    checkout develop
+    commit
+    commit
+    checkout main
+    merge develop
+    commit
+    commit
 </div>
