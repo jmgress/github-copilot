@@ -38,10 +38,10 @@ footer: 'James Gress - https://jamesgress.com'
 comment that will show in notes -->
 
 <div class="video-wrapper">
-    <video controls>
-        <source src="./img/copilot_commit_message.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+  <video controls autoplay loop>
+    <source src="./img/copilot_commit_message.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ---
