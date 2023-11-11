@@ -50,8 +50,8 @@ comment that will show in notes -->
 <!-- Can also do a multiline
 comment that will show in notes -->
 
-<div class="video-wrapper">
-  <video controls autoplay loop muted style="height:80%;>
+<div class="video-wrapper" stype=height:80%;>
+  <video controls autoplay loop muted>
     <source src="./img/copilot_commit_message2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
