@@ -3,6 +3,11 @@
 
 @import 'default';
 
+h1 {
+  font-size: 36px;  /* Adjust the size as needed */
+  /* Other styling properties like font-family, color, etc., can also be added here */
+}
+
 .columns {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
