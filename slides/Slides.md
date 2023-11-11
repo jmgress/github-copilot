@@ -37,7 +37,12 @@ footer: 'James Gress - https://jamesgress.com'
 <!-- Can also do a multiline
 comment that will show in notes -->
 
-![Image](./img/copilot_commit_message.mp4)
+<div class="video-wrapper">
+    <video controls>
+        <source src="./img/copilot_commit_message.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 ---
 
