@@ -72,7 +72,7 @@ comment that will show in notes -->
 ## James Gress
 ### Director Emerging Technologies<br>Generative AI<br>Accenture
 
-<i class="fa-brands fa-twitter"></i> Twitter: @jmgress
+<i class="fa-brands fa-x-twitter"></i> 𝕏: @jmgress
 <i class="fa-brands fa-linkedin"></i> LinkedIn: - [James Gress](https://linkedin.com/in/jamesgress/)
 <i class="fa fa-window-maximize"></i> Blog: [https://jamesgress\.com/](https://jamesgress.com/)
 <i class="fa-brands fa-github"></i> GitHub: [jmgress](https://github.com/jmgress)
