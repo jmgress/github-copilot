@@ -1,11 +1,11 @@
 ---
 marp: true
-theme: custom-gaia
-footer: 'https://example.com'
+theme: custom-default
+footer: 'James Gress - https://jamesgress.com'
 ---
 
 # GitHub Copilot Training
-![bg right](https://picsum.photos/800/600)
+![bg right](./img/jamesgress.png)
 
 ---
 
@@ -15,6 +15,7 @@ footer: 'https://example.com'
 - What is GitHub Copilot
 - Bennifits to using GitHub Copilot
 - How to use GitHub Copilot
+- Microsoft Training
 <!-- Can have multiple on a slide -->
 
 ---
@@ -66,13 +67,15 @@ comment that will show in notes -->
 
 ---
 
-## Slide 6
+![bg left:40%](./img/jamesgress.png)
 
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
+## Chris Ayers
+### Senior Customer Engineer<br>Microsoft
+
+<i class="fa-brands fa-twitter"></i> Twitter: @jmgress
+<i class="fa-brands fa-linkedin"></i> LinkedIn: - [chris\-l\-ayers](https://linkedin.com/in/chris-l-ayers/)
+<i class="fa fa-window-maximize"></i> Blog: [https://chris-ayers\.com/](https://chris-ayers.com/)
+<i class="fa-brands fa-github"></i> GitHub: [Codebytes](https://github.com/codebytes)
 
 ---
 
