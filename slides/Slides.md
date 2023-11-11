@@ -14,11 +14,11 @@ footer: 'James Gress - https://jamesgress.com'
 ## James Gress
 ### Director Emerging Technologies<br>Generative AI<br>Accenture
 
-<i class="fa-brands fa-x-twitter"></i> 𝕏: @jmgress
+<i class="fa-brands fa-x-twitter"></i> 𝕏: [@jmgress](https://twitter.com/jmgress)
 <i class="fa-brands fa-linkedin"></i> LinkedIn: - [James Gress](https://linkedin.com/in/jamesgress/)
 <i class="fa fa-window-maximize"></i> Blog: [https://jamesgress\.com/](https://jamesgress.com/)
 <i class="fa-brands fa-github"></i> GitHub: [jmgress](https://github.com/jmgress)
-<i class="fa-brands fa-meetup"></i> Generative AI: [jmgress](https://www.meetup.com/tampa-bay-generative-ai-meetup/)
+<i class="fa-brands fa-meetup"></i> Meetup: [Generative AI](https://www.meetup.com/tampa-bay-generative-ai-meetup/)
 
 ---
 
