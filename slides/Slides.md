@@ -33,11 +33,11 @@ footer: 'James Gress - https://jamesgress.com'
 
 ---
 
-## Slide 2
+## GitHub Copilot Commit Message
 <!-- Can also do a multiline
 comment that will show in notes -->
 
-![Image](https://picsum.photos/800/600)
+![Image](./img/copilot_commit_message.mp4)
 
 ---
 
