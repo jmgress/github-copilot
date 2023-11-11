@@ -4,11 +4,13 @@ theme: custom-default
 footer: 'James Gress - https://jamesgress.com'
 paginate: true
 
-
 ---
 
 <!-- Global style -->
 <style>
+body {
+  font-family: 'Coolvetica', sans-serif;
+}
 h1 {
   font-size: 80px;
 }
