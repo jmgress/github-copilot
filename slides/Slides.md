@@ -1,20 +1,20 @@
 ---
 marp: true
-theme: custom-default
+theme: custom-gaia
 footer: 'https://example.com'
 ---
 
-# My Presentation
+# GitHub Copilot Training
 ![bg right](https://picsum.photos/800/600)
 
 ---
 
 <!-- Speaker Notes -->
-## Slide 1
+## Content
 
-- Item 1
-- Item 2
-- Item 3
+- What is GitHub Copilot
+- Bennifits to using GitHub Copilot
+- How to use GitHub Copilot
 <!-- Can have multiple on a slide -->
 
 ---
