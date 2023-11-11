@@ -2,6 +2,7 @@
 marp: true
 theme: custom-default
 footer: 'James Gress - https://jamesgress.com'
+
 ---
 
 # GitHub Copilot Training
@@ -38,9 +39,11 @@ footer: 'James Gress - https://jamesgress.com'
 comment that will show in notes -->
 
 ---
+backgroundColor: black
+---
 
 <div class="video-wrapper">
-  <video controls autoplay loop muted>
+  <video controls autoplay loop muted style="width:95%;">
     <source src="./img/copilot_create_code.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -55,7 +58,7 @@ comment that will show in notes -->
 ---
 
 <div class="video-wrapper">
-  <video controls autoplay loop muted style="width:70%;">
+  <video controls autoplay loop muted style="width:95%;">
     <source src="./img/copilot_commit_message.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
