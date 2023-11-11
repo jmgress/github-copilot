@@ -33,13 +33,26 @@ footer: 'James Gress - https://jamesgress.com'
 
 ---
 
-## GitHub Copilot Commit Message
+## GitHub Copilot Commit Message - Example 1
 <!-- Can also do a multiline
 comment that will show in notes -->
 
 <div class="video-wrapper">
   <video controls autoplay loop muted>
     <source src="./img/copilot_commit_message.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+---
+
+## GitHub Copilot Commit Message - Example 2
+<!-- Can also do a multiline
+comment that will show in notes -->
+
+<div class="video-wrapper">
+  <video controls autoplay loop muted>
+    <source src="./img/copilot_commit_message2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
