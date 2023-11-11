@@ -69,13 +69,13 @@ comment that will show in notes -->
 
 ![bg left:40%](./img/jamesgress.png)
 
-## Chris Ayers
-### Senior Customer Engineer<br>Microsoft
+## James Gress
+### Director Emerging Technologies<br>Generative AI<br>Accenture
 
 <i class="fa-brands fa-twitter"></i> Twitter: @jmgress
-<i class="fa-brands fa-linkedin"></i> LinkedIn: - [chris\-l\-ayers](https://linkedin.com/in/chris-l-ayers/)
-<i class="fa fa-window-maximize"></i> Blog: [https://chris-ayers\.com/](https://chris-ayers.com/)
-<i class="fa-brands fa-github"></i> GitHub: [Codebytes](https://github.com/codebytes)
+<i class="fa-brands fa-linkedin"></i> LinkedIn: - [James Gress](https://linkedin.com/in/jamesgress/)
+<i class="fa fa-window-maximize"></i> Blog: [https://jamesgress\.com/](https://jamesgress.com/)
+<i class="fa-brands fa-github"></i> GitHub: [jmgress](https://github.com/jmgress)
 
 ---
 
