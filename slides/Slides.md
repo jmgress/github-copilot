@@ -2,11 +2,21 @@
 marp: true
 theme: custom-default
 footer: 'James Gress - https://jamesgress.com'
+paginate: true
+
 
 ---
 
+<!-- Global style -->
+<style>
+h1 {
+  font-size: 80px;
+}
+</style>
+
+
 # GitHub Copilot Training
-![bg right](./img/jamesgress.png)
+![bg right:40%](./img/jamesgress.png)
 
 ---
 
@@ -55,7 +65,7 @@ comment that will show in notes -->
 comment that will show in notes -->
 
 ---
-
+![bg color](black)
 <div class="video-wrapper">
   <video controls autoplay loop muted style="width:95%;">
     <source src="./img/copilot_commit_message.mp4" type="video/mp4">
@@ -70,7 +80,7 @@ comment that will show in notes -->
 comment that will show in notes -->
 
 ---
-
+![bg color](black)
 <div class="video-wrapper">
   <video controls autoplay loop muted style="width:70%;">
     <source src="./img/copilot_commit_message2.mp4" type="video/mp4">
@@ -120,7 +130,7 @@ comment that will show in notes -->
 
 ---
 
-# <!--fit--> Large Text
+# <!--fit--> In Progress
 
 ---
 
