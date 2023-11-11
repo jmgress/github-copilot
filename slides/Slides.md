@@ -39,9 +39,8 @@ footer: 'James Gress - https://jamesgress.com'
 comment that will show in notes -->
 
 ---
-backgroundColor: black
----
 
+![bg color](black)
 <div class="video-wrapper">
   <video controls autoplay loop muted style="width:95%;">
     <source src="./img/copilot_create_code.mp4" type="video/mp4">
