@@ -1,21 +1,21 @@
 ---
 marp: true
-theme: custom-default
 footer: 'James Gress - https://jamesgress.com'
 paginate: true
-
+theme: default
+style: |
+  body {
+    font-family: 'Courier New', monospace;
+  }
+  h1 {
+    font-size: 90px;
+    color: black;
+  }
+  h2 {
+    font-size: 30px;
+    color: black;
+  }
 ---
-
-<!-- Global style -->
-<style>
-body {
-  font-family: 'Coolvetica', sans-serif;
-}
-h1 {
-  font-size: 80px;
-}
-</style>
-
 
 # GitHub Copilot Training
 ![bg right:40%](./img/jamesgress.png)
@@ -25,7 +25,7 @@ h1 {
 ![bg left:40%](./img/jamesgress.png)
 
 # James Gress
-### Director Emerging Technologies<br>Generative AI<br>Accenture
+## Director Emerging Technologies<br>Generative AI<br>Accenture
 
 <i class="fa-brands fa-x-twitter"></i> 𝕏: [@jmgress](https://twitter.com/jmgress)
 <i class="fa-brands fa-linkedin"></i> LinkedIn: - [James Gress](https://linkedin.com/in/jamesgress/)
