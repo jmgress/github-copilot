@@ -2,19 +2,8 @@
 marp: true
 footer: 'James Gress - https://jamesgress.com'
 paginate: true
-theme: default
-style: |
-  body {
-    font-family: 'Courier New', monospace;
-  }
-  h1 {
-    font-size: 90px;
-    color: black;
-  }
-  h2 {
-    font-size: 30px;
-    color: black;
-  }
+theme: custom-default
+transition: glow
 ---
 
 # GitHub Copilot Training
@@ -27,11 +16,11 @@ style: |
 # James Gress
 ## Director Emerging Technologies<br>Generative AI<br>Accenture
 
-<i class="fa-brands fa-x-twitter"></i> 𝕏: [@jmgress](https://twitter.com/jmgress)
-<i class="fa-brands fa-linkedin"></i> LinkedIn: - [James Gress](https://linkedin.com/in/jamesgress/)
-<i class="fa fa-window-maximize"></i> Blog: [https://jamesgress\.com/](https://jamesgress.com/)
-<i class="fa-brands fa-github"></i> GitHub: [jmgress](https://github.com/jmgress)
-<i class="fa-brands fa-meetup"></i> Meetup: [Generative AI](https://www.meetup.com/tampa-bay-generative-ai-meetup/)
+<i class="fa-brands fa-x-twitter"></i> [@jmgress](https://twitter.com/jmgress)
+<i class="fa-brands fa-linkedin"></i> [James Gress](https://linkedin.com/in/jamesgress/)
+<i class="fa fa-window-maximize"></i> [https://jamesgress\.com/](https://jamesgress.com/)
+<i class="fa-brands fa-github"></i> [jmgress](https://github.com/jmgress)
+<i class="fa-brands fa-meetup"></i> [Generative AI](https://www.meetup.com/tampa-bay-generative-ai-meetup/)
 
 ---
 
@@ -98,12 +87,7 @@ comment that will show in notes -->
 
 ---
 
-## Slide 4
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
+![bg fit](./img/git.drawio.svg)
 
 ---
 

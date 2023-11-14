@@ -3,8 +3,12 @@
 
 @import 'default';
 
+body {
+    font-family: 'Courier New', monospace;
+}
+
 h1 {
-  font-size: 60px;  /* Adjust the size as needed */
+  font-size: 90px;  /* Adjust the size as needed */
   /* Other styling properties like font-family, color, etc., can also be added here */
 }
 
