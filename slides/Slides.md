@@ -7,7 +7,7 @@ transition: glow
 ---
 
 # GitHub Copilot Training
-![bg right:40%](./img/jamesgress.png)
+![bg fit right:40%](./img/ghcp.jpg)
 
 ---
 
