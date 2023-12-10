@@ -1,11 +1,11 @@
 I am recieving the following error and would like a fix
 
 The error is:
-(env) (base) PS C:\Users\james.m.gress\Repos\github-copilot> piper install openai
+(env) (base) PS C:\Users\james\Repos\github-copilot> piper install openai
 piper : The term 'piper' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of 
 the name, or if a path was included, verify that the path is correct and try again.
 At line:1 char:1
-+ piper install me
++ piper install openai
 + ~~~~~
     + CategoryInfo          : ObjectNotFound: (piper:String) [], CommandNotFoundException
     + FullyQualifiedErrorId : CommandNotFoundException
