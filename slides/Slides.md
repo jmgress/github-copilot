@@ -27,17 +27,86 @@ transition: glow
 <!-- Speaker Notes -->
 ## Content
 
+- Generative AI
 - What is GitHub Copilot
 - Bennifits to using GitHub Copilot
+- Frequently Asked Questions
 - How to use GitHub Copilot
 - Microsoft Training
+
 <!-- Can have multiple on a slide -->
 
 ---
 
-## GitHub Copilot Code Assist
-<!-- Can also do a multiline
-comment that will show in notes -->
+# Generative AI
+
+Why now?  Generative AI and AI has been around for years and even decades!
+<!-- It is at a point where it has sigificanly reduced the barrier to entry
+
+It benifits beginners to experienced
+
+At this point it can't be ignored, as it has the potential to radically change an orginizations landscape -->
+
+---
+
+# Why Generative AI
+
+10% Initial Effort -> 80% Toil Reduction -> 10% Validating and Refining
+
+---
+
+# Generative AI Frequently Asked Questions
+
+Potential to Generate IP Infringement
+
+Ability to Copyright AI Generated Code
+
+Legal and Government Regulations
+
+Accuracy and Hallucinations 
+
+<!-- Recently had a 1 year anniverisary on the launch of ChatGPT
+
+Might bring up Scale -->
+
+---
+
+# Measuging ROI
+
+---
+
+# Reducing Mondain Tasks
+
+Many professional developers only get to spend about 2 hours a day developing, the rest of the time is spent on mondain tasks.
+
+---
+
+# Data Security
+
+GitHub Copilot for Business does not access the source code in your editor other than to generate a suggestion, and prompts used to generate a suggestion are transmitted to the model securely. Once a suggestion is generated, your prompts are not retained.
+
+---
+
+# Responsible AI
+
+---
+
+
+# Generative AI and AI Assisted Coding
+
+Will change the way we do software
+
+<!-- It is at a point where it has sigificanly reduced the barrier to entry
+
+It benifits beginners to experienced
+
+At this point it can't be ignored, as it has the potential to radically change an orginizations landscape -->
+
+
+---
+
+## GitHub Copilot Basics - Code Assist
+<!-- Notes -->
 
 ---
 
@@ -80,6 +149,11 @@ comment that will show in notes -->
 </div>
 
 ---
+# Microsoft Training
+[Microsoft Copilot Training](https://learn.microsoft.com/en-us/training/paths/copilot/)
+
+---
+
 
 ## Slide 3
 
