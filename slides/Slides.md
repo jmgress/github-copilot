@@ -6,7 +6,7 @@ theme: custom-default
 transition: glow
 ---
 
-# GitHub Copilot Training
+# GitHub Copilot Quickstart
 ![bg fit right:40%](./img/ghcp.jpg)
 
 ---
