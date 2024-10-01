@@ -2,7 +2,7 @@
 marp: true
 footer: 'James Gress - https://jamesgress.com'
 paginate: true
-theme: custom-default
+theme: custom-dark
 transition: glow
 ---
 
