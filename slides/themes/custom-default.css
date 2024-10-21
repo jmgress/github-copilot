@@ -11,6 +11,7 @@ body {
 
 h1 {
   font-size: 90px;  /* Adjust the size as needed */
+  font-weight: bold; /* Make h1 headers bold */
   /* Other styling properties like font-family, color, etc., can also be added here */
 }
 
