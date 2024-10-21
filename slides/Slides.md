@@ -6,7 +6,7 @@ theme: custom-dark
 transition: glow
 ---
 
-# GitHub Copilot Quickstart
+# **GitHub Copilot Quickstart**
 ![bg fit right:40%](./img/ghcp.jpg)
 
 ---
